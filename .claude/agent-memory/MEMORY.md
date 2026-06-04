@@ -1,0 +1,1 @@
+- [Project Coding Conventions](project-coding-conventions.md) — camelCase for ALL identifiers (including constants); no abbreviations; descriptive names required; overrides PEP 8
